@@ -39,3 +39,13 @@ How to Play
     Make guesses: Input your guess for the 4-digit code when prompted. The digits must be within the range 1 to 8, and no digits are repeated.
     Get feedback: After each guess, the game will provide feedback on how many digits are correct and in the correct position, and how many digits are correct but in the wrong position.
     Win or Lose: You have 12 turns to guess the code. If you guess the code correctly, you win. If you don't guess the code within 12 turns, the game will reveal the code.
+
+Requirements
+
+    Java 8 or higher
+
+How to Run
+
+    Clone the repository or download the source code.
+    Open the project in your favorite Java IDE.
+    Compile and run the CodeBreakerGame class.
