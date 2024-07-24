@@ -21,4 +21,12 @@ public class CodeGenerator {
 
         return code;
     }
+
+    public static int getMinDigit() {
+        return MIN_DIGIT;
+    }
+
+    public static int getMaxDigit() {
+        return MAX_DIGIT;
+    }
 }
